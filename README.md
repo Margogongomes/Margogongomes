@@ -1,6 +1,5 @@
 ### Oii, eu sou a Marina Gomes👩🏽‍💻
 
-- 🔭 Atualmente estou a procura de um estágio
 - 🌱 Estudo no Colégio Cotemig
 - 🤔 Quero a ajuda de profissionais dispostos a me mostrar formas de desenvolver os projetos
 
