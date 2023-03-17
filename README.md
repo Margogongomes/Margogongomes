@@ -1,6 +1,6 @@
 ### Oii, eu sou a Marina Gomes👩🏽‍💻
 
-- 🌱 Estudo no Colégio Cotemig
+- 🌱 Formada em Técnico em Informática
 - 🤔 Quero a ajuda de profissionais dispostos a me mostrar formas de desenvolver os projetos
 
 <br>
